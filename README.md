@@ -65,13 +65,13 @@
 ## 🔭 I’m currently working on
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
     <tr>
-      <td>
+      <td style="border:none;">
         <img height="180"
           src="https://github-readme-stats.vercel.app/api?username=thisisminseon&show_icons=true&hide_border=true&rank_icon=github&title_color=F6A5C0&icon_color=FF69B4&text_color=555555" />
       </td>
-      <td>
+      <td style="border:none;">
         <img height="180"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisminseon&layout=compact&hide_border=true&hide_progress=true&title_color=F6A5C0&text_color=555555" />
       </td>
