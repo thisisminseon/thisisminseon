@@ -28,31 +28,21 @@
 ## 🧱 Tech Stack
 
 ### 👩‍💻 Language
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 <br/>
 
 ### 📚 Library
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Alamofire-EF2D5E?style=flat-square&logo=Swift&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
 
 <br/>
 
 ### 🖼️ Framework
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=Swift&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 
