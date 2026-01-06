@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F6A5C0&height=180&section=header&text=Hi,%20There.%20This%20is%20Minseon&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,100:6FE3DA&height=180&section=header&text=Hi,%20There.%20This%20is%20Minseon&fontSize=40&fontColor=ffffff" />
 </div>
 
 ---
@@ -76,5 +76,5 @@
 <!-- ========================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FADADD,100:F6A5C0&height=180&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,100:6FE3DA&height=180&section=footer" />
 </div>
