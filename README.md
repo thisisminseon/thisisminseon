@@ -10,14 +10,10 @@
 <!-- Introduction -->
 
 
-<h4>🙋 I am a Software Engineer from the Republic of Korea.</h4>
-<h4>🙋 韓国出身のソフトウェアエンジニアです。</h4>
-
-<h4>🔥 I aim to grow as a reliable Software Engineer.</h4>
-<h4>🔥 信頼されるソフトウェアエンジニアとして成長することを目指しています。</h4>
-
-<h4>🎓 Bachelor of Management Information Systems, Kyonggi University</h4>
-<h4>🎓 京畿大学 経営情報学専攻 学士</h4>
+<h4>🔧 Software Engineer based in the Republic of Korea.</h4>
+<h4>Bachelor of Management Information Systems👩‍💻, Kyonggi University.</h4>
+<h4>Focused on backend development and building reliable 👍 Web applications.</h4>
+<h6>Occasionally explores iOS  development···.</h6>
 
 ---
 
@@ -59,11 +55,11 @@
     <tr>
       <td style="border:none;">
         <img height="180"
-          src="https://github-readme-stats.vercel.app/api?username=thisisminseon&show_icons=true&hide_border=true&rank_icon=github&title_color=F6A5C0&icon_color=FF69B4&text_color=555555" />
+          src="https://github-readme-stats.vercel.app/api?username=thisisminseon&show_icons=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=39C5BB&icon_color=39C5BB&text_color=555555" />
       </td>
       <td style="border:none;">
         <img height="180"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisminseon&layout=compact&hide_border=true&hide_progress=true&title_color=F6A5C0&text_color=555555" />
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisminseon&layout=compact&hide_progress=true&hide_border=true&bg_color=ffffff&title_color=39C5BB&text_color=555555" />
       </td>
     </tr>
   </table>
