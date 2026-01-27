@@ -51,18 +51,10 @@
 ## 🔭 I’m currently working on
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-    <tr>
-      <td style="border:none;">
-        <img height="180"
-          src="https://github-readme-stats.vercel.app/api?username=thisisminseon&show_icons=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=39C5BB&icon_color=39C5BB&text_color=555555" />
-      </td>
-      <td style="border:none;">
-        <img height="180"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisminseon&layout=compact&hide_progress=true&hide_border=true&bg_color=ffffff&title_color=39C5BB&text_color=555555" />
-      </td>
-    </tr>
-  </table>
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=thisisminseon&show_icons=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=39C5BB&icon_color=39C5BB&text_color=555555" />
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisminseon&layout=compact&hide_progress=true&hide_border=true&bg_color=ffffff&title_color=39C5BB&text_color=555555" />
 </div>
 
 ---
