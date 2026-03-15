@@ -34,11 +34,11 @@
 
 ---
 
-<h2>🔭 I’m currently working on</h2>
-<p align="center">
+<h2>🔭 I'm currently working on</h2>
+<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thisisminseon&show_icons=true&hide_border=true&title_color=39C5BB&icon_color=39C5BB&bg_color=ffffff" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisminseon&theme=white&ring=39C5BB&fire=39C5BB&currStreakLabel=39C5BB&hide_border=true" />
-</p>
+</div>
 
 ---
 
